@@ -1,2 +1,5 @@
-# Cyber-Kill-Chain
-The Cyber Kill Chain framework is designed for identification and prevention of the network intrusions. You will learn what the adversaries need to do in order to achieve their goals.
+# Cyber Kill Chain
+
+[Cyber Kill Chain® | Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+
+[THE-CYBER-KILL-CHAIN](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/photo/cyber/THE-CYBER-KILL-CHAIN-body.png.pc-adaptive.1280.medium.png)
